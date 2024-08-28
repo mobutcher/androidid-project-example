@@ -1,0 +1,80 @@
+{
+  "allFiles": [
+    {
+      "file": "/data/data/com.itsaky.androidide/files/home/project/example/ndkDemo1/app/src/cpp/CMakeLists.txt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/data/data/com.itsaky.androidide/files/home/project/example/ndkDemo1/app/src/cpp/ndkdemo-jni.cpp",
+      "selection": {
+        "end": {
+          "column": 67,
+          "index": 242,
+          "line": 9
+        },
+        "start": {
+          "column": 67,
+          "index": 242,
+          "line": 9
+        }
+      }
+    },
+    {
+      "file": "/data/data/com.itsaky.androidide/files/home/project/example/ndkDemo1/app/src/main/java/com/ndk/ndkdemo1/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/data/data/com.itsaky.androidide/files/home/project/example/ndkDemo1/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/data/data/com.itsaky.androidide/files/home/project/example/ndkDemo1/.gitignore",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/data/data/com.itsaky.androidide/files/home/project/example/ndkDemo1/.gitignore"
+}
